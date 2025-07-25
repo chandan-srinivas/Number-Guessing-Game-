@@ -26,6 +26,23 @@ This is a simple yet engaging **Number Guessing Game** built in Python. The comp
 - Game logic and scoring
 - Exception handling (recommended to add)
 
+💡 Features:
+- Difficulty levels: Easy, Medium, Hard
+- Scoreboard tracking for user and computer
+- Input validation for range (1–100)
+- Option to continue or exit the game
+- Beginner-friendly code structure
+
+🚀 Future Improvements (optional ideas):
+- Add graphical UI with Tkinter
+- Add input exception handling for non-numeric inputs
+- Add sound or color output using third-party modules
+- Save high scores in a file
+
+🙌 Contributing
+- Pull requests are welcome! If you have suggestions or improvements, feel free to fork the repo and raise a PR.
+
+
 ---
 
 ## ▶️ How to Run:
